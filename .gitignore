@@ -1,0 +1,8 @@
+dist/
+build/
+nbproject/private/
+*.class
+*.jar
+*.log
+*.db
+*.sqlbak
